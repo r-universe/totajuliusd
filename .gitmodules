@@ -8,3 +8,8 @@
 	url = https://github.com/totajuliusd/topr
 	shallow = true
 	registered = true
+[submodule "toprdata"]
+	path = toprdata
+	url = https://github.com/cran/toprdata
+	shallow = true
+	registered = true
