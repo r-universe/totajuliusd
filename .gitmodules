@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "topr"]
 	path = topr
 	url = https://github.com/totajuliusd/topr
-	shallow = true
-	registered = true
 [submodule "toprdata"]
 	path = toprdata
 	url = https://github.com/cran/toprdata
-	shallow = true
-	registered = true
