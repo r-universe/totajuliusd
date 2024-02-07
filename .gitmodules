@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "enshuman"]
 	path = enshuman
-	url = https://github.com/cran/enshuman
+	url = https://github.com/totajuliusd/enshuman
 [submodule "topr"]
 	path = topr
 	url = https://github.com/totajuliusd/topr
